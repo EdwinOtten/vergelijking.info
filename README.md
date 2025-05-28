@@ -1,2 +1,2 @@
-# koopvergelijk.nl
-Jekyll project for koopvergelijk.nl
+# vergelijking.info
+Jekyll project for vergelijking.info
