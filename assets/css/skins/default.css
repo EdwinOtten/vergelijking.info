@@ -34,7 +34,15 @@
 .masthead .site-logo-img { border-radius: none; margin-right: 1em; }
 @media (min-width: 64em) { .masthead .site-logo-img { width: 112.5px; height: 112.5px; border-radius: 112.5px; } }
 
+h2 { margin-top: 2rem; }
+
 .page-title, .entry-title { font-family: "Source Sans Pro", sans-serif; font-style: normal; }
+
+.entries-list .entry-title { font-size: calc(20px + 6 * ((100vw - 320px) / 960)); }
+
+.entries-grid .entry { background: #046b611c; border-radius: 5px; border: 1px solid #046b6129; padding: 0.8rem 1rem; margin: 0 0 1rem 0; }
+
+.entries-grid .entry:hover { background: #046b6136; }
 
 .entry a { color: #008575; }
 
