@@ -33,4 +33,9 @@ var store = [{
         "excerpt":"De S95D-televisie is Samsungs nieuwe QD-oledtopmodel voor 2024 en de eerste oled-tv met een mat scherm. De televisie weet daarmee hinderlijke reflecties tot het minimum te beperken. De S95D heeft bovendien de hoogste helderheid van alle oledtelevisies die we tot dusver hebben getest. De beeldkwaliteit bij sdr-weergave is zeer goed...","categories": [],
         "tags": [],
         "url": "https://vergelijking.info/televisies/samsung-s95d-55-inch"
+      },{
+        "title": "Sony KD-55AG9 OLED TV Review & Vergelijking - 55 inch OLED televisie",
+        "excerpt":"Sony KD-55AG9 OLED TV Review en Specificaties De Sony KD-55AG9 is een high-end 55-inch OLED televisie die zich onderscheidt door zijn superieure beeldkwaliteit en innovatieve audiotechnologie. Deze OLED TV van Sony biedt een perfecte combinatie van diepe zwartwaarden, levendige kleuren en vloeiende bewegingen. Belangrijkste kenmerken van de Sony KD-55AG9 55-inch...","categories": [],
+        "tags": [],
+        "url": "https://vergelijking.info/televisies/sony-kd-55ag9"
       }]
