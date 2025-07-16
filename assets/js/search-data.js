@@ -29,6 +29,11 @@ var store = [{
         "tags": [],
         "url": "https://vergelijking.info/televisies/lg-oled-evo-g4-65-inch"
       },{
+        "title": "Philips Ambilight TV 55OLED909",
+        "excerpt":"Philips Ambilight TV 55OLED909 De Philips Ambilight TV 55OLED909 is een topklasse OLED-televisie die uitblinkt in beeldkwaliteit, design en slimme functionaliteiten. Deze televisie is speciaal ontworpen voor de veeleisende kijker die het beste uit zijn home entertainment wil halen. Belangrijkste kenmerken Ambilight aan drie zijden: Creëer een unieke kijkervaring met...","categories": [],
+        "tags": [],
+        "url": "https://vergelijking.info/televisies/philips-ambilight-tv-55oled909"
+      },{
         "title": "Samsung S95D 55\"",
         "excerpt":"De S95D-televisie is Samsungs nieuwe QD-oledtopmodel voor 2024 en de eerste oled-tv met een mat scherm. De televisie weet daarmee hinderlijke reflecties tot het minimum te beperken. De S95D heeft bovendien de hoogste helderheid van alle oledtelevisies die we tot dusver hebben getest. De beeldkwaliteit bij sdr-weergave is zeer goed...","categories": [],
         "tags": [],

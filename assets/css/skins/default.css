@@ -36,7 +36,15 @@
 
 h2 { margin-top: 2rem; }
 
+@media (orientation: landscape) { .page-image img { max-height: 50vh; width: auto; } }
+@media (orientation: portrait) { .page-image img { object-fit: cover; } }
 .page-title, .entry-title { font-family: "Source Sans Pro", sans-serif; font-style: normal; }
+
+.entry-image { max-width: 16rem; margin: 0 auto; }
+
+.entries-list .entry { padding-bottom: 1rem; border-bottom: 3px solid #f0f0f0; }
+
+.entries-list .entry:last-child { border-bottom: none; }
 
 .entries-list .entry-title { font-size: calc(20px + 6 * ((100vw - 320px) / 960)); }
 
